@@ -1,9 +1,9 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-10-14T19:25:56.077009+00:00",
+  "generatedAt": "2026-10-14T20:00:47.685948+00:00",
   "provider": "cs.rin.ru",
   "sourceForum": null,
-  "discoveredTopics": 22,
+  "discoveredTopics": 2,
   "releases": [
     {
       "provider": "cs.rin.ru",
@@ -22,9 +22,9 @@
           "host": "cs.rin.ru",
           "label": "Total.War.WARHAMMER.III.Update.v9.0.2.Crack.Only-ARTIFACT.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "89dcc3f677e7021e955ae997f5348b1cd602b1271e405a653f8b14c476b6d62a",
+          "size": 15431604,
+          "filename": "Total.War.WARHAMMER.III.Update.v9.0.2.Crack.Only-ARTIFACT.7z"
         }
       ],
       "sourceTopicId": 111437,
@@ -69,9 +69,9 @@
           "host": "cs.rin.ru",
           "label": "Jurassic.World.Evolution.3.Update.v1.5.2.Crack.Only-ARTIFACT.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "4b824cd022e53169a4fd03c04b274cf6a83d1546683eb1bd37242d54949aa7d5",
+          "size": 15433264,
+          "filename": "Jurassic.World.Evolution.3.Update.v1.5.2.Crack.Only-ARTIFACT.7z"
         }
       ],
       "sourceTopicId": 159345,
@@ -116,9 +116,9 @@
           "host": "cs.rin.ru",
           "label": "Anno.117.Pax.Romana.Update.v2.1.Crack.Only-ARTIFACT.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "1ccb739e027583d33b98f299bf2ff1b57e940076d1e5bba84899360d424c322c",
+          "size": 9057846,
+          "filename": "Anno.117.Pax.Romana.Update.v2.1.Crack.Only-ARTIFACT.7z"
         }
       ],
       "sourceTopicId": 141388,
@@ -163,9 +163,9 @@
           "host": "cs.rin.ru",
           "label": "Two.Point.Museum.Update.v12.0.243206.Crack.Only-ARTIFACT.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "7f02c0837854d757b6ec99819a06f96c1af1eeccff746f5ac53132274107260b",
+          "size": 15431060,
+          "filename": "Two.Point.Museum.Update.v12.0.243206.Crack.Only-ARTIFACT.7z"
         }
       ],
       "sourceTopicId": 156435,
@@ -210,9 +210,9 @@
           "host": "cs.rin.ru",
           "label": "Two.Point.Museum.Update.v11.0.234399.Crack.Only-ARTIFACT.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "a26f4925b5ab37a21123f443cb93731055dc6dfaeedcc5a5362fbfa684e7e03a",
+          "size": 15420410,
+          "filename": "Two.Point.Museum.Update.v11.0.234399.Crack.Only-ARTIFACT.7z"
         }
       ],
       "sourceTopicId": 142663,
@@ -257,9 +257,9 @@
           "host": "cs.rin.ru",
           "label": "Crimson.Desert.Enhanced.Update.v2.03.02.Crack.Only-ARTIFACT.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "aee796466303a77fc15f9d612264368a32c1645ec0dcfe2cc93ccee9700d3e01",
+          "size": 15419916,
+          "filename": "Crimson.Desert.Enhanced.Update.v2.03.02.Crack.Only-ARTIFACT.7z"
         }
       ],
       "sourceTopicId": 160311,
@@ -304,9 +304,9 @@
           "host": "cs.rin.ru",
           "label": "Hello.Kitty.Island.Adventure.Update.v2.18.1.Crack.Only-ARTIFACT.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "4bc08a6a7279ba1aaea1effd6eafad4b0b1d5f3da779dea77df64ff640a6852f",
+          "size": 15419978,
+          "filename": "Hello.Kitty.Island.Adventure.Update.v2.18.1.Crack.Only-ARTIFACT.7z"
         }
       ],
       "sourceTopicId": 159345,
@@ -351,9 +351,9 @@
           "host": "cs.rin.ru",
           "label": "Borderlands.4.Update.v1.10.2.Crack.Only-ARTIFACT.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "a16a95bc97138a42b2e2c6665e16aa93019187f787fa9d491eafa46cd6debe04",
+          "size": 15452151,
+          "filename": "Borderlands.4.Update.v1.10.2.Crack.Only-ARTIFACT.7z"
         }
       ],
       "sourceTopicId": 142772,
@@ -433,9 +433,9 @@
           "host": "cs.rin.ru",
           "label": "ACE.COMBAT.8.WINGS.OF.THEVE.Crack.Only-ARTIFACT.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "0ab472c5451066da9a0308167f02f13567eb995859535e8ce6e8aacfab678707",
+          "size": 15413611,
+          "filename": "ACE.COMBAT.8.WINGS.OF.THEVE.Crack.Only-ARTIFACT.7z"
         }
       ],
       "sourceTopicId": 95461,
@@ -480,9 +480,9 @@
           "host": "cs.rin.ru",
           "label": "Monster.Hunter.Wilds-b23830959-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "7188fcec928e81d8489f2fbb168c5e246f737a4c9cc11fcd088d413eac5c2bb5",
+          "size": 32066022,
+          "filename": "Monster.Hunter.Wilds-b23830959-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -536,9 +536,9 @@
           "host": "cs.rin.ru",
           "label": "Puyo.Puyo.Tetris-DenuvOwO.zip",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "b677f2918a0b764137ea62f5239b87588a91db48aff8176d0cbbf27e4594c333",
+          "size": 116569454,
+          "filename": "Puyo.Puyo.Tetris-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 86822,
@@ -593,9 +593,9 @@
           "host": "cs.rin.ru",
           "label": "Feral.Rites-DenuvOwO.zip",
           "role": "Download Link (CrackOnly)",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "853d8cb72ba095fba76b3995c880911dd1d0740d8ed5bd59d3b2e7fcf35da430",
+          "size": 8712174,
+          "filename": "Feral.Rites-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 98158,
@@ -644,9 +644,9 @@
           "host": "cs.rin.ru",
           "label": "Zombie.Army.VR-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "19319db522d89e62fee18efdc59109174a66cd61898ce0bf377122e16a898155",
+          "size": 18499638,
+          "filename": "Zombie.Army.VR-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -694,9 +694,9 @@
           "host": "cs.rin.ru",
           "label": "Sniper.Elite.VR-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "fb49515f159b54e55588d4cff7010a6837639c09ac0e622a9d696878d34f7ba5",
+          "size": 16142201,
+          "filename": "Sniper.Elite.VR-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 108167,
@@ -744,9 +744,9 @@
           "host": "cs.rin.ru",
           "label": "EA.SPORTS.FC.27.Crack.Only-ARTIFACT.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "3925033e3aa06453e8ef1dc594bc8009a0d35a9942540bffa8a06f7f898c5793",
+          "size": 226578509,
+          "filename": "EA.SPORTS.FC.27.Crack.Only-ARTIFACT.7z"
         }
       ],
       "sourceTopicId": 160342,
@@ -800,9 +800,9 @@
           "host": "cs.rin.ru",
           "label": "EA.SPORTS.FC.26.Title.Update.1.6.6-DenuvOwO.zip",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "d97f42f51f4d13b6fcfee7e710bb41091ca9bb9b4b6acfc60ba9250c20f04be7",
+          "size": 241060314,
+          "filename": "EA.SPORTS.FC.26.Title.Update.1.6.6-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 150355,
@@ -847,9 +847,9 @@
           "host": "cs.rin.ru",
           "label": "Crimson.Desert.v2.01.00-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "80eeb02cfce49aa813676bb6ec3f89db085d10f36c1e134184e204a9e0ee6d0e",
+          "size": 16428051,
+          "filename": "Crimson.Desert.v2.01.00-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 145140,
@@ -912,9 +912,9 @@
           "host": "cs.rin.ru",
           "label": "Onimusha.Way.of.the.Sword-DenuvOwO.7z",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "e5def69f6c568eaf00a9c319d0e5a452114fba6248c8706ec61c1c897e2a1e57",
+          "size": 28356442,
+          "filename": "Onimusha.Way.of.the.Sword-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 95461,
@@ -969,9 +969,9 @@
           "host": "cs.rin.ru",
           "label": "Assassins.Creed.Black.Flag.Resynced.Title.Update.1.0.7-DenuvOwO.7z",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "85a38159f47f895619db026c0c98dd7c943c0c4c7ca2e097dcec8f4cec13496f",
+          "size": 8457267,
+          "filename": "Assassins.Creed.Black.Flag.Resynced.Title.Update.1.0.7-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 157669,
@@ -1016,9 +1016,9 @@
           "host": "cs.rin.ru",
           "label": "Crimson.Desert.v2.00.02-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "c2a3983bca9fa00622fae7cde09ff2eb1e8099f1c9d4672be70893901de8815f",
+          "size": 16428778,
+          "filename": "Crimson.Desert.v2.00.02-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 160311,
@@ -1063,9 +1063,9 @@
           "host": "cs.rin.ru",
           "label": "Street.Fighter.6.Build.24176760-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "de1fb5da0485371f1fb8c9a51faaebc561a4bc91afb39bb533eabd2493cb4978",
+          "size": 25806257,
+          "filename": "Street.Fighter.6.Build.24176760-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 119813,
@@ -1110,9 +1110,9 @@
           "host": "cs.rin.ru",
           "label": "WWE.2K26.v1.15-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "9708d442c01eb4e6253ac1c3d12a630fd9a4280a54b8d8511459342f83aa501e",
+          "size": 21093266,
+          "filename": "WWE.2K26.v1.15-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 154893,
@@ -1166,9 +1166,9 @@
           "host": "cs.rin.ru",
           "label": "Crimson.Desert.Enhanced-DenuvOwO.7z",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "e2f50c63bc0f9d4eeca7cac9f75b5f0bb2424d9d3558a5986891c7a46774bc9a",
+          "size": 16429416,
+          "filename": "Crimson.Desert.Enhanced-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 95461,
@@ -1214,9 +1214,9 @@
           "host": "cs.rin.ru",
           "label": "Crimson.Desert.v1.18.02-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "c451ec16667a7f454ace202c0f89c94d0af562ddc775c41a3a6d9083f01455f5",
+          "size": 16426721,
+          "filename": "Crimson.Desert.v1.18.02-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 160311,
@@ -1261,9 +1261,9 @@
           "host": "cs.rin.ru",
           "label": "Crimson.Desert.v1.18.01-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "c4ad00fe301532e19104dd6b2e2a58ba5ff068e23267bb95145b51e3d1d3f832",
+          "size": 16426693,
+          "filename": "Crimson.Desert.v1.18.01-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 145140,
@@ -1308,9 +1308,9 @@
           "host": "cs.rin.ru",
           "label": "Crimson.Desert.v1.18.00-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "ed7445fbc1f1dbf2d3b3cb171be1595e03b71e2d5632e4d27151878cf04f8e67",
+          "size": 16426189,
+          "filename": "Crimson.Desert.v1.18.00-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 159345,
@@ -1355,9 +1355,9 @@
           "host": "cs.rin.ru",
           "label": "Sid.Meier's.Civilization.VII.v1.4.2.Hotfix-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "220e4d274621f6b1788468186e7ac53b4704ec317cceb8c036a33d7587f1a5c4",
+          "size": 17661796,
+          "filename": "Sid.Meier_27s.Civilization.VII.v1.4.2.Hotfix-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -1402,9 +1402,9 @@
           "host": "cs.rin.ru",
           "label": "Jurassic.World.Evolution.3.Update.1.4.2-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "cb8667d22bdfdd3c72a109c793ce62df84bb3a478b40125bd7e0d113acdc4d23",
+          "size": 17789321,
+          "filename": "Jurassic.World.Evolution.3.Update.1.4.2-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 152411,
@@ -1449,9 +1449,9 @@
           "host": "cs.rin.ru",
           "label": "Mafia.The.Old.Country-b24657362-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "5eb080de445485020198d74d63ccc97d3aadc6055d1830115ddfb9f202d6bddb",
+          "size": 18664179,
+          "filename": "Mafia.The.Old.Country-b24657362-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 142777,
@@ -1505,9 +1505,9 @@
           "host": "cs.rin.ru",
           "label": "Echoes.of.Aincrad.v1.0.5-DenuvOwO.7z",
           "role": null,
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "914b0db886609d054391515446640ed4e0b5f5422179c39bc18060875be6e56f",
+          "size": 15794003,
+          "filename": "Echoes.of.Aincrad.v1.0.5-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 159345,
@@ -1552,9 +1552,9 @@
           "host": "cs.rin.ru",
           "label": "Stellar.Blade.Build.24463856-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "841333b77656f27e2a0bb15781e6ef9638ff951cfaa52749f5315252c3dced48",
+          "size": 16124214,
+          "filename": "Stellar.Blade.Build.24463856-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 159345,
@@ -1603,9 +1603,9 @@
           "host": "cs.rin.ru",
           "label": "METAL.GEAR.SOLID.V.THE.PHANTOM.PAIN.Build.24176213-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "2568192b3b8ece3e0a8e16a61f9de90f6afce9c493118b3257d9a7ebe2d7e3ae",
+          "size": 17097373,
+          "filename": "METAL.GEAR.SOLID.V.THE.PHANTOM.PAIN.Build.24176213-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 88528,
@@ -1661,9 +1661,9 @@
           "host": "cs.rin.ru",
           "label": "Tom.Clancys.Ghost.Recon.Wildlands.v9840374-DenuvOwO.7z",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "52a94af4f87019eba92e1d1780bae854ccf3c431610a75bdc9514a9476594da4",
+          "size": 8310788,
+          "filename": "Tom.Clancys.Ghost.Recon.Wildlands.v9840374-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 88528,
@@ -1717,9 +1717,9 @@
           "host": "cs.rin.ru",
           "label": "Tom.Clancys.Ghost.Recon.Wildlands.Last.Rites-DenuvOwO.7z",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "a81d0ad362ce3175c14a53292b407dc9bd7941de3898c82dcd43549de3bf0ec4",
+          "size": 8311417,
+          "filename": "Tom.Clancys.Ghost.Recon.Wildlands.Last.Rites-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 88528,
@@ -1764,9 +1764,9 @@
           "host": "cs.rin.ru",
           "label": "Crimson.Desert.v1.17.00-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "edb43552483de634e07f6ba81aa1734ea1a7579088b1f26d434e8dc5feba6815",
+          "size": 16426756,
+          "filename": "Crimson.Desert.v1.17.00-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 160311,
@@ -1811,9 +1811,9 @@
           "host": "cs.rin.ru",
           "label": "Assassins.Creed.Shadows-b24069226-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "939ec294558e73c484857fe3f2c3405ebf9f8aabc5ac1e454974a1171e1cbacc",
+          "size": 8692965,
+          "filename": "Assassins.Creed.Shadows-b24069226-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 44034,
@@ -1858,9 +1858,9 @@
           "host": "cs.rin.ru",
           "label": "Borderlands.4-b24475729-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "32721a2648d60a47ff78b441a2190ea9987e5f90e1fc8f75637a21148ef804f3",
+          "size": 19433793,
+          "filename": "Borderlands.4-b24475729-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -1905,9 +1905,9 @@
           "host": "cs.rin.ru",
           "label": "The.Bus-b23682867-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "b5ce6d619561ba9a6bfda5d4644c9955d49d08ad93edbec6740f84ae054a50a6",
+          "size": 17829709,
+          "filename": "The.Bus-b23682867-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 107499,
@@ -1952,9 +1952,9 @@
           "host": "cs.rin.ru",
           "label": "Crimson.Desert.v1.16.04-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "1414052c0fe132c521bb01a8673795f6eaa951be57fa801183ab6f175e5f65b2",
+          "size": 16429044,
+          "filename": "Crimson.Desert.v1.16.04-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 145140,
@@ -1999,9 +1999,9 @@
           "host": "cs.rin.ru",
           "label": "Assassins.Creed.Black.Flag.Resynced.Title.Update.1.0.6-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "07441b0344e533d651cfb6b209b8e724f74cb09c8fa3dba620ea0e313a241a48",
+          "size": 8457337,
+          "filename": "Assassins.Creed.Black.Flag.Resynced.Title.Update.1.0.6-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 157669,
@@ -2046,9 +2046,9 @@
           "host": "cs.rin.ru",
           "label": "Crimson.Desert.v1.16.03-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "c9a6338f8c571d0f46ec196033c9ec1fff832e7001dd7dd202f78a74d243aca3",
+          "size": 16429010,
+          "filename": "Crimson.Desert.v1.16.03-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 95461,
@@ -2093,9 +2093,9 @@
           "host": "cs.rin.ru",
           "label": "Crimson.Desert.v1.16.02-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "13720f4e06630d30a2a829e47d919b611cf6467d163afec2b97771fb8439cc80",
+          "size": 16429038,
+          "filename": "Crimson.Desert.v1.16.02-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 160311,
@@ -2140,9 +2140,9 @@
           "host": "cs.rin.ru",
           "label": "Crimson.Desert.v1.16.01-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "2a9cc8227073553bc0b20f8abcbc98740237842a0a5924890eb36b606c1fc9ce",
+          "size": 16429068,
+          "filename": "Crimson.Desert.v1.16.01-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 160311,
@@ -2187,9 +2187,9 @@
           "host": "cs.rin.ru",
           "label": "Crimson.Desert.v1.16.00-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "f5dedaec70d59f54c04bd345eb05e33554e177cdcfe2e40e298bf9165cdb236f",
+          "size": 16429006,
+          "filename": "Crimson.Desert.v1.16.00-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 160311,
@@ -2234,9 +2234,9 @@
           "host": "cs.rin.ru",
           "label": "The.First.Berserker.Khazan.Build.24447756-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "0dc5c7099b205a484ada31efe2ac122a87a0de342866e91fa99030c7b6db6e91",
+          "size": 16058405,
+          "filename": "The.First.Berserker.Khazan.Build.24447756-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 159345,
@@ -2281,9 +2281,9 @@
           "host": "cs.rin.ru",
           "label": "The.First.Berserker.Khazan.Build.24413329-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "972a78fc67ccc3931014ba792a49d66435e9d1daa4e9e685741cf6ef5766909e",
+          "size": 16058231,
+          "filename": "The.First.Berserker.Khazan.Build.24413329-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 137083,
@@ -2328,9 +2328,9 @@
           "host": "cs.rin.ru",
           "label": "Sid.Meier's.Civilization.VII.v1.4.2-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "876fb482165530abc6f066cdc32b0e6dabbbf870c359e06484f6f0c7e7a7cc29",
+          "size": 15611186,
+          "filename": "Sid.Meier_27s.Civilization.VII.v1.4.2-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -2375,9 +2375,9 @@
           "host": "cs.rin.ru",
           "label": "Hello.Kitty.Island.Adventure.v2.16.4-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "e501bd05daaee649df5803543375849cad4f25176e9d31d8ce0218a35759cc26",
+          "size": 16819139,
+          "filename": "Hello.Kitty.Island.Adventure.v2.16.4-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 156435,
@@ -2431,9 +2431,9 @@
           "host": "cs.rin.ru",
           "label": "Total.War.WARHAMMER.III.v8.1.1-DenuvOwO.7z",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "4d8cef44c77b04960f7d1093495429391474a2d1f4f3d0e30f3d47e91893564b",
+          "size": 16180616,
+          "filename": "Total.War.WARHAMMER.III.v8.1.1-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 111437,
@@ -2479,9 +2479,9 @@
           "host": "cs.rin.ru",
           "label": "Crimson.Desert.v1.15.00-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "8188fdd32ecbc08e436c78a78555f77a1caf1604bad3d9c4790a4cfbd7da2f7a",
+          "size": 16426805,
+          "filename": "Crimson.Desert.v1.15.00-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 160311,
@@ -2526,9 +2526,9 @@
           "host": "cs.rin.ru",
           "label": "Final.Fantasy.Tactics.The.Ivalice.Chronicles.v1.5.2-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "127c2303ec386bced17f0d4741abb9ba891b5cfd9fa922f324ad948742b5a561",
+          "size": 15765583,
+          "filename": "Final.Fantasy.Tactics.The.Ivalice.Chronicles.v1.5.2-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 156435,
@@ -2573,9 +2573,9 @@
           "host": "cs.rin.ru",
           "label": "LEGO.Batman.Legacy.of.the.Dark.Knight.v1.008-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "0c848358b9b30c64c4616c9bbd792b720d4fd989ea08420a860c77ba94c43185",
+          "size": 18298887,
+          "filename": "LEGO.Batman.Legacy.of.the.Dark.Knight.v1.008-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 103030,
@@ -2620,9 +2620,9 @@
           "host": "cs.rin.ru",
           "label": "Jurassic.World.Evolution.3.v1.3.6-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "986aad617d003597d7aa92e7b7089a679b7af1912abc6b2d73e31e0714783ac0",
+          "size": 15446033,
+          "filename": "Jurassic.World.Evolution.3.v1.3.6-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 159345,
@@ -2667,9 +2667,9 @@
           "host": "cs.rin.ru",
           "label": "WWE.2K26.v1.14-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "587b6b8f424c7263631d2a33c498ecdf7ad6388a5161cf1c4b29f8d2f22cf734",
+          "size": 20937107,
+          "filename": "WWE.2K26.v1.14-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 154893,
@@ -2714,9 +2714,9 @@
           "host": "cs.rin.ru",
           "label": "PRAGMATA.ver.1.220.000-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "106584c28adb8217f5dad86c5ea640e3890e2f6fd88f961fa79f37b4a1769aff",
+          "size": 30512334,
+          "filename": "PRAGMATA.ver.1.220.000-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 95461,
@@ -2770,9 +2770,9 @@
           "host": "cs.rin.ru",
           "label": "Assassins.Creed.Black.Flag.Resynced.Title.Update.1.0.5-DenuvOwO.zip",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "6d810fba1f4e949bf3d3833ebba38431f4e0643cdc28a0a81f355f0377d4992c",
+          "size": 8691748,
+          "filename": "Assassins.Creed.Black.Flag.Resynced.Title.Update.1.0.5-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 95461,
@@ -2818,9 +2818,9 @@
           "host": "cs.rin.ru",
           "label": "EA.SPORTS.FC.26.Title.Update.1.6.5-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "b6a4ae64856bf576c91569786402f8e1f64cf356313ba7645de051b67b23954c",
+          "size": 222326957,
+          "filename": "EA.SPORTS.FC.26.Title.Update.1.6.5-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 150355,
@@ -2865,9 +2865,9 @@
           "host": "cs.rin.ru",
           "label": "WWE.2K26.v1.13-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "ba064d3a59cfefef4e3fce8cb2897d56c9de212f8e56ed847cb179c41b3b81ef",
+          "size": 20931781,
+          "filename": "WWE.2K26.v1.13-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 156618,
@@ -2912,9 +2912,9 @@
           "host": "cs.rin.ru",
           "label": "Echoes.of.Aincrad.v1.0.4-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "87612c7a739587fa34876412b1f95692552eae3c5af0199cdb5fdd658986418d",
+          "size": 25969161,
+          "filename": "Echoes.of.Aincrad.v1.0.4-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 156407,
@@ -2968,9 +2968,9 @@
           "host": "cs.rin.ru",
           "label": "Assassins.Creed.Black.Flag.Resynced.Title.Update.1.0.4-DenuvOwO.zip",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "ad801978929338a0b5f1b9ce53d4d58b9aa47bca1fcb93523d05c38c0e891abd",
+          "size": 8691796,
+          "filename": "Assassins.Creed.Black.Flag.Resynced.Title.Update.1.0.4-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 157669,
@@ -3018,9 +3018,9 @@
           "host": "cs.rin.ru",
           "label": "Crimson.Desert.v1.14.00-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "b07714cdf93d61cbe94a36ab6f6971954ce4e3a6c9abbd3ae4f6357390fec982",
+          "size": 16426206,
+          "filename": "Crimson.Desert.v1.14.00-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 160311,
@@ -3074,9 +3074,9 @@
           "host": "cs.rin.ru",
           "label": "eBaseball.PRO.SPIRIT.2026.WORLD.BASEBALL.CLASSIC-DenuvOwO.zip",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "eec6e1e1ee4ffec490a8046f9e2186db87e92115493923fada7eebd185fc414e",
+          "size": 17722134,
+          "filename": "eBaseball.PRO.SPIRIT.2026.WORLD.BASEBALL.CLASSIC-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159919,
@@ -3133,9 +3133,9 @@
           "host": "cs.rin.ru",
           "label": "Persona.3.Reload.Build.22672075-DenuvOwO.zip",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "c0d7a4391a33bfbd6514caba598038413b2e2773aa2a3fca30c82a00fccaa7a1",
+          "size": 18417643,
+          "filename": "Persona.3.Reload.Build.22672075-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -3183,9 +3183,9 @@
           "host": "cs.rin.ru",
           "label": "Hello.Kitty.Island.Adventure.v2.16.3-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "407d062c34e3a4ffac85f7cac143a2dfba30f3bc5f28bd1b7598f1d81711ad49",
+          "size": 16818382,
+          "filename": "Hello.Kitty.Island.Adventure.v2.16.3-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 159345,
@@ -3230,9 +3230,9 @@
           "host": "cs.rin.ru",
           "label": "Final.Fantasy.Tactics.The.Ivalice.Chronicles.v1.5.1-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "53c8ebfdfd0ab087500ef34f635e17016a789a8e2407f34e29d78faaaf32dfcc",
+          "size": 15763329,
+          "filename": "Final.Fantasy.Tactics.The.Ivalice.Chronicles.v1.5.1-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 148997,
@@ -3277,9 +3277,9 @@
           "host": "cs.rin.ru",
           "label": "Mega.Man.Star.Force.Legacy.Collection.Build.23246966-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "3c9364af50cadf2d1aa0fb748a26e5ff1c5519cf48be89ebc14e889dd438c3f7",
+          "size": 28063518,
+          "filename": "Mega.Man.Star.Force.Legacy.Collection.Build.23246966-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 159345,
@@ -3333,9 +3333,9 @@
           "host": "cs.rin.ru",
           "label": "The.Adventures.of.Elliot.The.Millennium.Tales.v1.1.0-DenuvOwO.zip",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "adf6adc0b373afb2a97b1efffd1ef7ee385b03ebdeea7f19052e5c0f2786cf73",
+          "size": 19346144,
+          "filename": "The.Adventures.of.Elliot.The.Millennium.Tales.v1.1.0-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 156435,
@@ -3390,9 +3390,9 @@
           "host": "cs.rin.ru",
           "label": "Echoes.of.Aincrad-DenuvOwO.zip",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "173d112b7cabde4b26222d9a0c417a088e17670f41edc7e44d69157d4fc9eac3",
+          "size": 25968289,
+          "filename": "Echoes.of.Aincrad-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 95461,
@@ -3438,9 +3438,9 @@
           "host": "cs.rin.ru",
           "label": "Two.Point.Museum.Build.23903345-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "9ef51c7974443f059a2a8f5de1b2016a44cd7bbfa91f80b4084f8f3ca0a003b8",
+          "size": 16618885,
+          "filename": "Two.Point.Museum.Build.23903345-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 142663,
@@ -3485,9 +3485,9 @@
           "host": "cs.rin.ru",
           "label": "Crimson.Desert.v1.13.01-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "4a2988203119febfabe1bb91a3a7bd39999dda97e98fe0fb26eee19e774cf506",
+          "size": 16426005,
+          "filename": "Crimson.Desert.v1.13.01-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 160311,
@@ -3534,9 +3534,9 @@
           "host": "cs.rin.ru",
           "label": "CODE.VEIN.II.Build.22883694-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "ade95b1ac39c4ef533151fd45418d1ccfba46a2bb04cb11bf0f600c461faaee0",
+          "size": 16993526,
+          "filename": "CODE.VEIN.II.Build.22883694-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 159345,
@@ -3590,9 +3590,9 @@
           "host": "cs.rin.ru",
           "label": "AC.Black.Flag.Resynced-DenuvOwO.zip",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "68b30705c47bc9b76a56c6f59abf5b4eb9eaf95eb1585a2073721fad4c0302ee",
+          "size": 8663302,
+          "filename": "AC.Black.Flag.Resynced-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 131328,
@@ -3638,9 +3638,9 @@
           "host": "cs.rin.ru",
           "label": "Planet.Zoo.Build.23333923-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "061d0696d6b1026a8a83083c25cda1d5041848bb88d63474786a4e72d2f04454",
+          "size": 14869344,
+          "filename": "Planet.Zoo.Build.23333923-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 96543,
@@ -3685,9 +3685,9 @@
           "host": "cs.rin.ru",
           "label": "Planet.Coaster.2.Build.23985995-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "9f438e77b1db86981d505d403198e331bdef455c635e9b36f2f5ff9659c4367c",
+          "size": 15612935,
+          "filename": "Planet.Coaster.2.Build.23985995-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 156435,
@@ -3732,9 +3732,9 @@
           "host": "cs.rin.ru",
           "label": "Dragons.Dogma.2-b23848310-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "f624df21b4e7ea8ccf794959ce80093f65a4af4eac342380088afc587bcea0a4",
+          "size": 31665405,
+          "filename": "Dragons.Dogma.2-b23848310-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 156435,
@@ -3782,9 +3782,9 @@
           "host": "cs.rin.ru",
           "label": "Jurassic.World.Evolution.3.Build.23914383-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "1fb9fd206b9bc49c1e1fe8b3e836ac33a04dd344a62388f1ad1b3874bb02794f",
+          "size": 15560666,
+          "filename": "Jurassic.World.Evolution.3.Build.23914383-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 156435,
@@ -3829,9 +3829,9 @@
           "host": "cs.rin.ru",
           "label": "Planet.Coaster.2-b23784957-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "e43937138231b33a97356bb620dfd3d39a6244621d106d9d5c53af675a164c54",
+          "size": 17686431,
+          "filename": "Planet.Coaster.2-b23784957-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -3879,9 +3879,9 @@
           "host": "cs.rin.ru",
           "label": "Demon.Slayer.2-b22894415-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "1719a81f8a0c4d3f17c17da30e57c56350d1092dc1c6c5e17fd6c807c56f0436",
+          "size": 18988548,
+          "filename": "Demon.Slayer.2-b22894415-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -3929,9 +3929,9 @@
           "host": "cs.rin.ru",
           "label": "NBA.2K26.b23933228-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "1a6a8c507e8fd5e0211857ab9731506f14731d059635f1c7eb72ae2090ef1f3b",
+          "size": 16379204,
+          "filename": "NBA.2K26.b23933228-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 150206,
@@ -3976,9 +3976,9 @@
           "host": "cs.rin.ru",
           "label": "Monster.Hunter.Stories.3.Twisted.Reflection.v1.1.01-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "8faa5eb9ba7639e544b9fd379b8757bf1d5fd9fa06da03ef6d75f0a6afab2fed",
+          "size": 26781129,
+          "filename": "Monster.Hunter.Stories.3.Twisted.Reflection.v1.1.01-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 95461,
@@ -4023,9 +4023,9 @@
           "host": "cs.rin.ru",
           "label": "Monster.Hunter.Stories.3.Twisted.Reflection.v1.1.01-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "8faa5eb9ba7639e544b9fd379b8757bf1d5fd9fa06da03ef6d75f0a6afab2fed",
+          "size": 26781129,
+          "filename": "Monster.Hunter.Stories.3.Twisted.Reflection.v1.1.01-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 145140,
@@ -4116,9 +4116,9 @@
           "host": "cs.rin.ru",
           "label": "Monopoly.Star.Wars.Heroes.vs.Villains-DenuvOwO.7z",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "306a28a71b67a3f3eb255cb9accdab78e1b680e4520b93e471166f9e725ecba5",
+          "size": 8472273,
+          "filename": "Monopoly.Star.Wars.Heroes.vs.Villains-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 157961,
@@ -4164,9 +4164,9 @@
           "host": "cs.rin.ru",
           "label": "Hello.Kitty.Island.Adventure.v2.16.2-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "ce91d5881d064be3beb63a638e5a2cbac24e453f4031d11401388b14af80eb41",
+          "size": 16816896,
+          "filename": "Hello.Kitty.Island.Adventure.v2.16.2-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 145967,
@@ -4211,9 +4211,9 @@
           "host": "cs.rin.ru",
           "label": "Dead.Space-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "c0b0d929e1eaaeef00c35d60bc4146c109e9cf5820d53e30480464fef2f120ff",
+          "size": 18841974,
+          "filename": "Dead.Space-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -4267,18 +4267,18 @@
           "host": "cs.rin.ru",
           "label": "Sonic.Racing.CrossWorlds.v1.4.1-DenuvOwO.7z",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "84dafe4e8b28e53b02e69e949899ef4523160f87b9860d685cf1ebb620110605",
+          "size": 15145172,
+          "filename": "Sonic.Racing.CrossWorlds.v1.4.1-DenuvOwO.7z"
         },
         {
           "url": "https://cs.rin.ru/forum/download/file.php?id=194681",
           "host": "cs.rin.ru",
           "label": "Extra DLC Unlocker Save.zip",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "19e03ce61a5b20be2e4ec85d3835e4ef18f076433b2b5dd875b8cdfd5211e96d",
+          "size": 945876,
+          "filename": "Extra_20DLC_20Unlocker_20Save.zip"
         }
       ],
       "sourceTopicId": 146221,
@@ -4335,9 +4335,9 @@
           "host": "cs.rin.ru",
           "label": "Tom.Clancys.Ghost.Recon.Wildlands-DenuvOwO.zip",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "8a9a97be3e067f55d30fe967e4ac487e89814fb00bad28c95467071e711ddf12",
+          "size": 19415868,
+          "filename": "Tom.Clancys.Ghost.Recon.Wildlands-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 88528,
@@ -4383,9 +4383,9 @@
           "host": "cs.rin.ru",
           "label": "Jurassic.World.Evolution.3.Build.23782303-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "1958cbc1274e165b3ececb7ba5ace791fd40bfe1dc75711148ddb889db932fed",
+          "size": 15445520,
+          "filename": "Jurassic.World.Evolution.3.Build.23782303-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 95461,
@@ -4430,9 +4430,9 @@
           "host": "cs.rin.ru",
           "label": "Monster.Hunter.Stories.3.Twisted.Reflection.Build.23692242-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "a44c5e99c60fd462512583288ca81b6a26630ff38190365d6afdf49097498e31",
+          "size": 26782018,
+          "filename": "Monster.Hunter.Stories.3.Twisted.Reflection.Build.23692242-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 95461,
@@ -4477,9 +4477,9 @@
           "host": "cs.rin.ru",
           "label": "007.First.Light.Build.23909702-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "ba3ac548def4e2ed3d9666d8e5dda8ee0eb9eae1c84d17971b5f3ad6011cbae5",
+          "size": 18121885,
+          "filename": "007.First.Light.Build.23909702-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 148963,
@@ -4524,9 +4524,9 @@
           "host": "cs.rin.ru",
           "label": "Football.Manager.26.Build.23583635-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "1cf16291ea8ad5c4cf4ea3c2c904ab9416b2eb43fa4938b941a28d671ccdc2e9",
+          "size": 15896148,
+          "filename": "Football.Manager.26.Build.23583635-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 151390,
@@ -4571,9 +4571,9 @@
           "host": "cs.rin.ru",
           "label": "Resident.Evil.Requiem.Build.23634047-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "fbe34813d6f0149eb0a4f05d861d1e292eb4491e22e32904deae22156294b7a8",
+          "size": 27637338,
+          "filename": "Resident.Evil.Requiem.Build.23634047-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 149044,
@@ -4618,9 +4618,9 @@
           "host": "cs.rin.ru",
           "label": "Borderlands.4.Build.23744902-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "594c34d6828887410d17964b4892038ad136f2f422b139167cd76a2199d2f013",
+          "size": 19587520,
+          "filename": "Borderlands.4.Build.23744902-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 142772,
@@ -4665,9 +4665,9 @@
           "host": "cs.rin.ru",
           "label": "F1.Manager.2024-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "d3aa332a530540a6596bf42e2aaf3c1eb3f38450eb0cf28cfeb4f52edb4c8e5c",
+          "size": 15084876,
+          "filename": "F1.Manager.2024-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 95461,
@@ -4712,9 +4712,9 @@
           "host": "cs.rin.ru",
           "label": "Deathloop-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "9c4c6ca866f575dc1777bf1dc5989dfd6bd466a8d11239ce9eb77939934ed30f",
+          "size": 19130382,
+          "filename": "Deathloop-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 97684,
@@ -4771,9 +4771,9 @@
           "host": "cs.rin.ru",
           "label": "A.Total.War.Saga.Troy-DenuvOwO.zip",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "33dc1202d054b9cad41cd46fbeaca3a75faa95912e88a1b0286bc0d8122827a3",
+          "size": 18842994,
+          "filename": "A.Total.War.Saga.Troy-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 100347,
@@ -4819,9 +4819,9 @@
           "host": "cs.rin.ru",
           "label": "Final.Fantasy.Tactics.The.Ivalice.Chronicles.v1.5.0-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "c9a5c873062a9c57b640bbd10fd0ff831b3887c60a2a50d3ec031a1d612b7d94",
+          "size": 15761023,
+          "filename": "Final.Fantasy.Tactics.The.Ivalice.Chronicles.v1.5.0-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 159345,
@@ -4866,9 +4866,9 @@
           "host": "cs.rin.ru",
           "label": "Crimson.Desert.Build.23885112-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "c4b695c22824a1ca9b395fa01c8bd62d3db95d1d71983c682c9b6a54c3bd2347",
+          "size": 16423252,
+          "filename": "Crimson.Desert.Build.23885112-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 160311,
@@ -4924,9 +4924,9 @@
           "host": "cs.rin.ru",
           "label": "Sword.Art.Online.Fatal.Bullet-DenuvOwO.7z",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "a2027a7e8023c62f3525f417c25c8ed0c8d1b50a295b32f604947a1aa3325bad",
+          "size": 15144564,
+          "filename": "Sword.Art.Online.Fatal.Bullet-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 159345,
@@ -4983,9 +4983,9 @@
           "host": "cs.rin.ru",
           "label": "Persona.5.Strikers-DenuvOwO.zip",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "366d71f1afd031ed125d1797271e5f0e484f526efe65db65997b18a994108b06",
+          "size": 311996793,
+          "filename": "Persona.5.Strikers-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 88528,
@@ -5040,9 +5040,9 @@
           "host": "cs.rin.ru",
           "label": "Sid.Meier's.Civilization.VII.Build.23792691-DenuvOwO.zip",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "9b7d670673eca336485f5ab93810a041a9766e81cbc2050d0d3ba33330042b7b",
+          "size": 17788665,
+          "filename": "Sid.Meier_27s.Civilization.VII.Build.23792691-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 95461,
@@ -5090,9 +5090,9 @@
           "host": "cs.rin.ru",
           "label": "Total.War.WARHAMMER.III.Build.23682854-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "78b8af2dfcfaa6cef66a818717e269b59223fcca4e3959c60fb72af3ae4e5831",
+          "size": 18170754,
+          "filename": "Total.War.WARHAMMER.III.Build.23682854-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 111437,
@@ -5139,9 +5139,9 @@
           "host": "cs.rin.ru",
           "label": "Street.Fighter.6.Build.23395122-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "c112bf8413304d196baaa44fb6a77a4fcbc6efc81c72db50deb906ef068a6ed6",
+          "size": 25789821,
+          "filename": "Street.Fighter.6.Build.23395122-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 119813,
@@ -5188,9 +5188,9 @@
           "host": "cs.rin.ru",
           "label": "FC.26.Build.23552432-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "5e91eec2ad78eea4ec04f764d712cc3c96c8dcf878ef89d51b95c283291db24b",
+          "size": 163394970,
+          "filename": "FC.26.Build.23552432-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 150355,
@@ -5246,9 +5246,9 @@
           "host": "cs.rin.ru",
           "label": "Two.Point.Museum.Build.23825121-DenuvOwO.7z",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "702e00d12f7460b05041ef8281775290ee72963ca45bc888dd995baf87b88485",
+          "size": 19509726,
+          "filename": "Two.Point.Museum.Build.23825121-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 156435,
@@ -5296,9 +5296,9 @@
           "host": "cs.rin.ru",
           "label": "Crimson.Desert.Build.23831243-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "5a65cb421375a3ccb4a51359ca041b10f1deaa97517e6e44bbf4e46324215e79",
+          "size": 19316714,
+          "filename": "Crimson.Desert.Build.23831243-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 95461,
@@ -5347,9 +5347,9 @@
           "host": "cs.rin.ru",
           "label": "Crimson.Desert.Build.23816381-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "696fde9e83a61e3e7f4c2604ca9793ceca3b5a2c46301c233af241f668139184",
+          "size": 19319008,
+          "filename": "Crimson.Desert.Build.23816381-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 303837,
@@ -5407,9 +5407,9 @@
           "host": "cs.rin.ru",
           "label": "Jurassic.World.Evolution.3.Build.23660039-DenuvOwO.zip",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "b41cb3143645229b511a7428648b890fd3870c92ba88a4c99415384526d43c9c",
+          "size": 17680049,
+          "filename": "Jurassic.World.Evolution.3.Build.23660039-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 155230,
@@ -5466,9 +5466,9 @@
           "host": "cs.rin.ru",
           "label": "Two.Point.Museum.Build.23772915-DenuvOwO.7z",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "d8b71225179b9a7a3552ad364b02358bc77f96af0eba36e246c4b6c1982c32f5",
+          "size": 19509624,
+          "filename": "Two.Point.Museum.Build.23772915-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 156435,
@@ -5527,9 +5527,9 @@
           "host": "cs.rin.ru",
           "label": "The.Adventures.of.Elliot-DenuvOwO.zip",
           "role": "Download Link (Crack Only)",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "aa9b2f943a9b398aeee089c7d276be07b5e558247df055ed644c9af4ba1e7ff0",
+          "size": 19113406,
+          "filename": "The.Adventures.of.Elliot-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -5580,9 +5580,9 @@
           "host": "cs.rin.ru",
           "label": "Assassins.Creed.Shadows.Build.23475575-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "f84d67642b692c9b646bcc5732c177c55419c16d6a0c71bd73a12c1ca0bb6487",
+          "size": 14813702,
+          "filename": "Assassins.Creed.Shadows.Build.23475575-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 159345,
@@ -5631,9 +5631,9 @@
           "host": "cs.rin.ru",
           "label": "Two.Point.Museum.Build.23261318-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "cd4eb25a2dedfd907f5de4e882b74ab6640d255f6db569eee500c5216c166a3b",
+          "size": 19511153,
+          "filename": "Two.Point.Museum.Build.23261318-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 159345,
@@ -5680,9 +5680,9 @@
           "host": "cs.rin.ru",
           "label": "Sid.Meier's.Civilization.VII.Build.23245653-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "83ac6e3593ddbec43fbd96224cf831054858b533bb662a161e6ecebfebc97864",
+          "size": 17787706,
+          "filename": "Sid.Meier_27s.Civilization.VII.Build.23245653-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 141253,
@@ -5729,9 +5729,9 @@
           "host": "cs.rin.ru",
           "label": "007.First.Light.Build.23685521-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "ab75f6f82c51c0f1892920364d2fa187e7b922229faaffc6c99cd2607ffcfc74",
+          "size": 18367737,
+          "filename": "007.First.Light.Build.23685521-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -5787,9 +5787,9 @@
           "host": "cs.rin.ru",
           "label": "UNO-DenuvOwO.7z",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "01c10bae2fcdbf2df4ae0676ce1697e24609d7ea543bfbfe3dccd76bf6707784",
+          "size": 11346212,
+          "filename": "UNO-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 76434,
@@ -5837,9 +5837,9 @@
           "host": "cs.rin.ru",
           "label": "Crimson.Desert.Build.23693650-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "c450b9aad14874b1060409ff45db7d9947c560132c3fca9e9f2a507001cb7326",
+          "size": 19318642,
+          "filename": "Crimson.Desert.Build.23693650-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 160311,
@@ -5897,9 +5897,9 @@
           "host": "cs.rin.ru",
           "label": "Assassins.Creed.Mirage.Valley.of.Memory-DenuvOwO.7z",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "7c620ef5b4de7de7c9a0d06b17323ca2eb203398c6a3c34f21e7805250d2440b",
+          "size": 8817882,
+          "filename": "Assassins.Creed.Mirage.Valley.of.Memory-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 125983,
@@ -5947,9 +5947,9 @@
           "host": "cs.rin.ru",
           "label": "METAL.GEAR.SOLID.V.THE.PHANTOM.PAIN.Build.23407568-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "9767a08f3f7f1ecc18a57a798ce07184e42d3c140d139615a79a9c29d0a47eea",
+          "size": 17873407,
+          "filename": "METAL.GEAR.SOLID.V.THE.PHANTOM.PAIN.Build.23407568-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 159345,
@@ -5996,9 +5996,9 @@
           "host": "cs.rin.ru",
           "label": "007.First.Light.Build.23531465.CRACKFIX-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "bc435d86805fd553446c1c20b0d3912cf5267bda796deefc226353f66365289a",
+          "size": 15813200,
+          "filename": "007.First.Light.Build.23531465.CRACKFIX-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 148963,
@@ -6054,9 +6054,9 @@
           "host": "cs.rin.ru",
           "label": "NieR.Automata.Build.1707102-DenuvOwO.7z",
           "role": "Crack",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "174d021d8e3e32532a969404b20c12e4b4c21d8ca4a4a6254bc30c4e401260b0",
+          "size": 17834652,
+          "filename": "NieR.Automata.Build.1707102-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 159345,
@@ -6105,9 +6105,9 @@
           "host": "cs.rin.ru",
           "label": "Crimson.Desert.Build.23595025-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "886b8220b407355d75003b54169b4680cc95e21984bd24ddd42bb8bcb42b5745",
+          "size": 19333919,
+          "filename": "Crimson.Desert.Build.23595025-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 145140,
@@ -6157,9 +6157,9 @@
           "host": "cs.rin.ru",
           "label": "F1.2025.Build.23451719-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "01dfee07310206da98a81fcacc7f8f4cf22cb96924dad0dc5a0689bbfce2c953",
+          "size": 16362573,
+          "filename": "F1.2025.Build.23451719-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 147156,
@@ -6207,9 +6207,9 @@
           "host": "cs.rin.ru",
           "label": "Crimson.Desert.Build.23578264-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "dad55b94da9a7a1702d97640ea532ff17dafcd867662a9bd8c32bafeca661e50",
+          "size": 19334054,
+          "filename": "Crimson.Desert.Build.23578264-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 160311,
@@ -6259,9 +6259,9 @@
           "host": "cs.rin.ru",
           "label": "007.First.Light.Build.23531465-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "59d11dda74b351e0f763e4acff4c9ca424305c2a528d20c18b8c7eab381eb5ea",
+          "size": 17998382,
+          "filename": "007.First.Light.Build.23531465-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -6309,9 +6309,9 @@
           "host": "cs.rin.ru",
           "label": "Atomic.Heart.Build.23005793-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "ff1caf33c2caf5d1d526809692f1d456c52d512e8651316db2fca31098963a43",
+          "size": 37850076,
+          "filename": "Atomic.Heart.Build.23005793-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -6359,9 +6359,9 @@
           "host": "cs.rin.ru",
           "label": "METAL.GEAR.SOLID.V.THE.PHANTOM.PAIN.Build.6239679-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "6228dc9315b446af090be14793b35e42f3fa8413f0b4e11e0a1520e3cec30ee4",
+          "size": 14901714,
+          "filename": "METAL.GEAR.SOLID.V.THE.PHANTOM.PAIN.Build.6239679-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -6409,9 +6409,9 @@
           "host": "cs.rin.ru",
           "label": "Anno.117.Pax.Romana.Build.23292885-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "72d256c873ee75ea41d8cedd1ff06a6da44a4cdc273cb587572edadd303e3985",
+          "size": 21154916,
+          "filename": "Anno.117.Pax.Romana.Build.23292885-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 141388,
@@ -6459,9 +6459,9 @@
           "host": "cs.rin.ru",
           "label": "007.First.Light-b23430993-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "48b9ce3d4f67a0ce38fefb8be7efa7f03ca047858e0d846b0f4a54c42275906f",
+          "size": 17989907,
+          "filename": "007.First.Light-b23430993-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 148963,
@@ -6509,9 +6509,9 @@
           "host": "cs.rin.ru",
           "label": "Crimson.Desert.Build.23465675-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "eb926dd5ea153f3f57eeb97a5f0f4f9f474055a5a64f826cf716dc16b882ac18",
+          "size": 19332443,
+          "filename": "Crimson.Desert.Build.23465675-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 160311,
@@ -6561,9 +6561,9 @@
           "host": "cs.rin.ru",
           "label": "007.First.Light-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "3f868a282b8b6418b82c29db4f4dd61937e49dc2b24c6e56ba719759e8238437",
+          "size": 17989672,
+          "filename": "007.First.Light-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -6613,9 +6613,9 @@
           "host": "cs.rin.ru",
           "label": "Crimson.Desert.Build.23359194-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "a16cb1ffe9ccec0af0878d8a264de4f9ac0a131405f651b95d91a05ba2f78abb",
+          "size": 19332050,
+          "filename": "Crimson.Desert.Build.23359194-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 160311,
@@ -6665,9 +6665,9 @@
           "host": "cs.rin.ru",
           "label": "Lego.Batman.LOTDK-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "3bfe5b627dbdfb9925f2b114d0a062f01335971c4bdb7c904ea69a4d0e701572",
+          "size": 16904136,
+          "filename": "Lego.Batman.LOTDK-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 151024,
@@ -6921,9 +6921,9 @@
           "host": "cs.rin.ru",
           "label": "Need.For.Speed.Payback-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "42d0754759c29c53f4ad8e5f7472179b257612c6fb3d28ad0d034177ce5178c3",
+          "size": 113656875,
+          "filename": "Need.For.Speed.Payback-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 44034,
@@ -6980,9 +6980,9 @@
           "host": "cs.rin.ru",
           "label": "Damaged.Core-DenuvOwO.zip",
           "role": "Download Link (CrackOnly)",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "d6e94e1556aa2eeaa72fe2104bbb063f2fa38fcc7d1d24f9eaae768b65e07ba1",
+          "size": 8714451,
+          "filename": "Damaged.Core-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 73839,
@@ -7131,9 +7131,9 @@
           "host": "cs.rin.ru",
           "label": "Dragon.Quest.VII.Reimagined-b22393810-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "d31e7c65bc522b23ca10bed843a822efc9846aae0bd0ce269b1d10a1674c601e",
+          "size": 17118122,
+          "filename": "Dragon.Quest.VII.Reimagined-b22393810-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -7181,9 +7181,9 @@
           "host": "cs.rin.ru",
           "label": "Football.Manager.26-b22590233-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "7ea971fc19d50a5aa45841e8b99b0fff93702d54fa2e011ac99d45cb4d998b88",
+          "size": 17011130,
+          "filename": "Football.Manager.26-b22590233-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 151390,
@@ -7283,9 +7283,9 @@
           "host": "cs.rin.ru",
           "label": "Gunjack-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "e8d44b8eddea91fd43165c6c1be5ea0b35b940d09a3372ff6ad5fe222612035b",
+          "size": 15893930,
+          "filename": "Gunjack-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 94454,
@@ -7342,9 +7342,9 @@
           "host": "cs.rin.ru",
           "label": "Edge.Of.Nowhere-DenuvOwO.zip",
           "role": "Download Link (CrackOnly)",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "798181321e0547029fdd987b18b58fcefebee94fdd659b7dfea56b928fce84ec",
+          "size": 8712252,
+          "filename": "Edge.Of.Nowhere-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 83996,
@@ -7395,9 +7395,9 @@
           "host": "cs.rin.ru",
           "label": "FIFA.18-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "ea9f817a44b32abe4c1f92088f7635182e570a2a5f6e7b4f4a5b75c5e81e8d28",
+          "size": 127100508,
+          "filename": "FIFA.18-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 81238,
@@ -7445,9 +7445,9 @@
           "host": "cs.rin.ru",
           "label": "City.Transport.Simulator.2026.b22811200-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "75d8d855e8e2413bc8e564898c3b3cacea6bd943ca983624065bbea5f9ddbe9a",
+          "size": 16508970,
+          "filename": "City.Transport.Simulator.2026.b22811200-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -7745,9 +7745,9 @@
           "host": "cs.rin.ru",
           "label": "Madden.NFL.25-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "2eba90c8ad78b8b5a2717b310d64c22e5c9f3fa1a2241a892af0ae66e1aabe5b",
+          "size": 209192133,
+          "filename": "Madden.NFL.25-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 159345,
@@ -7795,9 +7795,9 @@
           "host": "cs.rin.ru",
           "label": "Madden.NFL.24-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "f3ad8ed9436215362d17b944061d49b87003f751a879bb743cdc88d9b9dddb20",
+          "size": 168907994,
+          "filename": "Madden.NFL.24-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 159345,
@@ -7845,9 +7845,9 @@
           "host": "cs.rin.ru",
           "label": "FC.25-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "6b1d5b093c31493eb8408a11d5f04d5f843ba3548909ddd5305bec61baa20ca8",
+          "size": 259509991,
+          "filename": "FC.25-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 142130,
@@ -7895,9 +7895,9 @@
           "host": "cs.rin.ru",
           "label": "FC.24-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "8b5f42e08fff77712920841af18acdee2b9abe6fd703895b370f13e5ca1fde96",
+          "size": 298082396,
+          "filename": "FC.24-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 134039,
@@ -7945,9 +7945,9 @@
           "host": "cs.rin.ru",
           "label": "Dragons.Dogma.2-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "fb543183d641973098b434904b2e5784d647fca895923ef5ddbe2364d647a092",
+          "size": 18559787,
+          "filename": "Dragons.Dogma.2-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 133316,
@@ -7995,9 +7995,9 @@
           "host": "cs.rin.ru",
           "label": "Professional.Baseball.Spirits-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "3b1a990ca6a6fc98cd056acc413f36e4d2e3fd02f80cd7f65d32c0c3181a1d66",
+          "size": 15879096,
+          "filename": "Professional.Baseball.Spirits-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 144875,
@@ -8056,9 +8056,9 @@
           "host": "cs.rin.ru",
           "label": "Rabbids.Party.of.Legends-DenuvOwO.zip",
           "role": "Download Link (CrackOnly)",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "06b2d8dad2485d00068511e520e7e6c70a03c4bd80ddc32ae842c95e2ffe101b",
+          "size": 8657849,
+          "filename": "Rabbids.Party.of.Legends-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 103030,
@@ -8109,9 +8109,9 @@
           "host": "cs.rin.ru",
           "label": "NEW.MONOPOLY-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "6766fd90a52f74621ef3c9d8d2982650eaf0e4472d7a8f47b56811783b35a926",
+          "size": 8658593,
+          "filename": "NEW.MONOPOLY-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -8161,9 +8161,9 @@
           "host": "cs.rin.ru",
           "label": "The.Settlers.New.Allies-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "5d78183c342e08adf598d072c9701da1408458451e87f6a0c3915b05c5607216",
+          "size": 8659354,
+          "filename": "The.Settlers.New.Allies-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -8313,9 +8313,9 @@
           "host": "cs.rin.ru",
           "label": "Far.Cry.New.Dawn-v1.0.8-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "b4baca04453b10a759402c8d254e889b4a4d5c4246b76e9230178a22136da5fd",
+          "size": 11280850,
+          "filename": "Far.Cry.New.Dawn-v1.0.8-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 159345,
@@ -8415,9 +8415,9 @@
           "host": "cs.rin.ru",
           "label": "Far.Cry.5-v1.016-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "2aeb7457b92ab557fad8a76dce2c344e9099ae374175bde2ea4481ee263e124f",
+          "size": 11129185,
+          "filename": "Far.Cry.5-v1.016-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 151409,
@@ -8467,9 +8467,9 @@
           "host": "cs.rin.ru",
           "label": "Super.Mega.Baseball.4-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "e6694153b3cb0581e520b8c4cb0da2de6eeb698f4bedcd0867a530e074bfa1ee",
+          "size": 17197723,
+          "filename": "Super.Mega.Baseball.4-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 153179,
@@ -8517,9 +8517,9 @@
           "host": "cs.rin.ru",
           "label": "Football.Manager.2022-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "5f40b736bf1a42651e27b96ac3f6b2a4e8e5e12c45e6537cdcd2b292a449dc66",
+          "size": 16269295,
+          "filename": "Football.Manager.2022-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 115734,
@@ -8567,9 +8567,9 @@
           "host": "cs.rin.ru",
           "label": "Speedball-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "91fc57e882d73385c40e1536ce2d6356277020a20c4a96ccf322e9e003d77b93",
+          "size": 16851882,
+          "filename": "Speedball-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 100129,
@@ -8617,9 +8617,9 @@
           "host": "cs.rin.ru",
           "label": "Valiant.Hearts.Coming.Home-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "f83f994dcb80438a61f4c4f30bbbb99cc93643acf44217be9ad5435955c89617",
+          "size": 16180198,
+          "filename": "Valiant.Hearts.Coming.Home-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 131328,
@@ -8667,9 +8667,9 @@
           "host": "cs.rin.ru",
           "label": "PGA.Tour-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "f8114eef7effb8481c2a26e471be58a2fe2dbabe23a561a8513d7fce62e83205",
+          "size": 285891939,
+          "filename": "PGA.Tour-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 129236,
@@ -8717,9 +8717,9 @@
           "host": "cs.rin.ru",
           "label": "Assassins.Creed.Shadows-b22460987-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "79447eecbec663b8d59d0c67dacf22f9805e9b547f961b7f6f932a51d4c5554c",
+          "size": 16764023,
+          "filename": "Assassins.Creed.Shadows-b22460987-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -8767,9 +8767,9 @@
           "host": "cs.rin.ru",
           "label": "Hello.Kitty.Island.Adventure-b22723795-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "094fb5e9fb860e589bbc8dc3cd57e926b02cf12188a1441b211969fa2525bc92",
+          "size": 17963490,
+          "filename": "Hello.Kitty.Island.Adventure-b22723795-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 145967,
@@ -8919,9 +8919,9 @@
           "host": "cs.rin.ru",
           "label": "DenuvOwO.ini",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "21ee2b127e294d9c637231bd71eb2d8e3c76f3b5c2aafb47ec2feb886c198f19",
+          "size": 912,
+          "filename": "DenuvOwO.ini"
         }
       ],
       "sourceTopicId": 159345,
@@ -8969,9 +8969,9 @@
           "host": "cs.rin.ru",
           "label": "FF.XV-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "62aa3aba50f2ef88624442238bc449af77f37e8d7de8541517e87cdb597a50c2",
+          "size": 16167320,
+          "filename": "FF.XV-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -9021,9 +9021,9 @@
           "host": "cs.rin.ru",
           "label": "Judgment-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "ce143e8769961dbcad2b50209b8dffc97cce030c3fb9398cbf3246fc1f6bc3fe",
+          "size": 16133083,
+          "filename": "Judgment-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -9071,9 +9071,9 @@
           "host": "cs.rin.ru",
           "label": "F1.Manager.2022-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "a78000fa0c66ff3b7525f57b9dd47a1c309c4c8c530a3d4273c3f01a38af71e4",
+          "size": 16187213,
+          "filename": "F1.Manager.2022-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -9221,9 +9221,9 @@
           "host": "cs.rin.ru",
           "label": "City.Transport.Simulator.2026-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "1f9685cc1a95f3668d23b53e39ceebeb7563c6ec1c3d4eb64a4b506dc13a1b25",
+          "size": 16544611,
+          "filename": "City.Transport.Simulator.2026-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 156498,
@@ -9271,9 +9271,9 @@
           "host": "cs.rin.ru",
           "label": "TopSpin.2K25-DenuvOwO-CrackFix.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "f3c345bb223fad3a381cc3259332a860fbbecdc542c29172a8bc62ed98fd6d38",
+          "size": 16991235,
+          "filename": "TopSpin.2K25-DenuvOwO-CrackFix.zip"
         }
       ],
       "sourceTopicId": 137797,
@@ -9323,9 +9323,9 @@
           "host": "cs.rin.ru",
           "label": "NBA.2K24-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "b28b17a96e0957452f9a78e908980d57ebcc85ffca9ddf91d267f0a506056ac4",
+          "size": 17563038,
+          "filename": "NBA.2K24-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 95461,
@@ -9373,9 +9373,9 @@
           "host": "cs.rin.ru",
           "label": "NBA.2K25-DenuvOwO-CrackFix.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "78508b5756ef0a66c2db65606af7e30fdf3ea3988b69382e069c13f1e196855d",
+          "size": 15693836,
+          "filename": "NBA.2K25-DenuvOwO-CrackFix.zip"
         }
       ],
       "sourceTopicId": 141996,
@@ -9425,9 +9425,9 @@
           "host": "cs.rin.ru",
           "label": "F1.23-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "a5c6aaa7f4e777d4d48215bf9972d242f85760fb3805d393c76311a8b68ab31e",
+          "size": 16103643,
+          "filename": "F1.23-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 118265,
@@ -9475,9 +9475,9 @@
           "host": "cs.rin.ru",
           "label": "Football.Manager.2024-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "ca21e33c82aa36243eb7c9c42c2b54a62e765d3f8d18335dbbfe1aada160d3ae",
+          "size": 18279065,
+          "filename": "Football.Manager.2024-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -9525,9 +9525,9 @@
           "host": "cs.rin.ru",
           "label": "F1.Manager.2023-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "1728e5338bc519b8448d318e713ad676a5a9cca73b0afdd81e25f4167ec31e80",
+          "size": 16329895,
+          "filename": "F1.Manager.2023-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 95461,
@@ -9575,9 +9575,9 @@
           "host": "cs.rin.ru",
           "label": "F1.24-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "ebc566759f690efc5766e56ed623f35934e8434cf975b7ed6a3613437038120b",
+          "size": 16184513,
+          "filename": "F1.24-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -9834,9 +9834,9 @@
           "host": "cs.rin.ru",
           "label": "Hogwarts.Legacy-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "b37ddcc08f9b18830fe9fcadd67a004ef5a6eb0f688dfec99c25e4c7c3b3115a",
+          "size": 17416096,
+          "filename": "Hogwarts.Legacy-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 103030,
@@ -9884,9 +9884,9 @@
           "host": "cs.rin.ru",
           "label": "Marvels.Midnight.Suns-DenuvOwO-CrackFix.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "6a4ca309bc98040e1d6f4a64c0e1c82f227910e7d8796601ea19b160b99e3ca5",
+          "size": 18423560,
+          "filename": "Marvels.Midnight.Suns-DenuvOwO-CrackFix.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -10336,9 +10336,9 @@
           "host": "cs.rin.ru",
           "label": "NBA.2K26-b22469912-DenuvOwO-CrackFix.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "fd1fd2e1f5d5baabd5c79ae93f2f37bc48fa293594390d1418dd7543cf1782ae",
+          "size": 15988855,
+          "filename": "NBA.2K26-b22469912-DenuvOwO-CrackFix.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -10550,9 +10550,9 @@
           "host": "cs.rin.ru",
           "label": "Warhammer.Age.Of.Sigmar.Realms.Of.Ruin-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "7847dbeae98309ea6ea469c2b8ff9f5a847266748a9059d2d4bd6ca34b4c6974",
+          "size": 17148041,
+          "filename": "Warhammer.Age.Of.Sigmar.Realms.Of.Ruin-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 95461,
@@ -10600,9 +10600,9 @@
           "host": "cs.rin.ru",
           "label": "Final.Fantasy.Tactics.The.Ivalice.Chronicles-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "e5c5da2e5f0026fdf00abe9036c22d8815bf8914971b82cf845cba5adb1ffe6f",
+          "size": 17132622,
+          "filename": "Final.Fantasy.Tactics.The.Ivalice.Chronicles-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -10650,9 +10650,9 @@
           "host": "cs.rin.ru",
           "label": "Street.Fighter.6-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "68da7e305c0620436553eb2bff65a2686fe08bfd894294724cee8219b9983422",
+          "size": 20714261,
+          "filename": "Street.Fighter.6-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -10700,9 +10700,9 @@
           "host": "cs.rin.ru",
           "label": "The.First.Berserker.Khazan-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "2c0dfa106b8eac4220feba62d0c3693a1e770281041606c48f77844e9f467e61",
+          "size": 17273320,
+          "filename": "The.First.Berserker.Khazan-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -11604,9 +11604,9 @@
           "host": "cs.rin.ru",
           "label": "Avatar.Frontiers.of.Pandora-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "63da6f3d34fbb3f3e0c28f34f79a27895ec5a3dee8cb045b90d901c147e58023",
+          "size": 8463413,
+          "filename": "Avatar.Frontiers.of.Pandora-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 159345,
@@ -11915,9 +11915,9 @@
           "host": "cs.rin.ru",
           "label": "Prince.Of.Persia.The.Lost.Crown-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "8b3418fc8d1201f62b404c997e88517218c8860337fbae73c89eb3e9f53e63d7",
+          "size": 8957029,
+          "filename": "Prince.Of.Persia.The.Lost.Crown-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -12970,9 +12970,9 @@
           "host": "cs.rin.ru",
           "label": "Star.Wars.Outlaws.Build.18870567-DenuvOwO.7z",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "21c5c6b9a46ece8a03af8a71acead99c7e299ac2e3cf127222ee01ce4dd6ea8b",
+          "size": 8471524,
+          "filename": "Star.Wars.Outlaws.Build.18870567-DenuvOwO.7z"
         }
       ],
       "sourceTopicId": 159345,
@@ -13719,9 +13719,9 @@
           "host": "cs.rin.ru",
           "label": "NBA.2K26.DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "746deeb3b477d7eaadd761bdbcdee0436136a26a4b63f12eeaacd606714c34a0",
+          "size": 17816034,
+          "filename": "NBA.2K26.DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 150206,
@@ -13769,9 +13769,9 @@
           "host": "cs.rin.ru",
           "label": "Assassins.Creed.Shadows-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "24fe6c61e921cf2b952c66fb3dccace5239e8fa39a84369aaabc796eb10e855e",
+          "size": 16836668,
+          "filename": "Assassins.Creed.Shadows-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -13837,9 +13837,9 @@
           "host": "cs.rin.ru",
           "label": "Persona.4.Golden-DenuvOwO.zip",
           "role": null,
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "ad79e8fbec92f6efd0e4fc195ea3e593d8e1bb24fef06ff381acf685621374b7",
+          "size": 26364746,
+          "filename": "Persona.4.Golden-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 105939,
@@ -13973,9 +13973,9 @@
           "host": "cs.rin.ru",
           "label": "Stellar.Blade-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "1209386a0e0f2ceda95d4128e872fa4b343c983d2227a02ade3c59fd7bb656f9",
+          "size": 17497134,
+          "filename": "Stellar.Blade-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -14032,9 +14032,9 @@
           "host": "cs.rin.ru",
           "label": "Sniper.Elite.Resistance-DenuvOwO.zip",
           "role": null,
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "550bd00fc874dc6b085be9bb4b44f03ac94f58fc3a3d29f59e6e302669362d01",
+          "size": 209545014,
+          "filename": "Sniper.Elite.Resistance-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 77664,
@@ -14091,9 +14091,9 @@
           "host": "cs.rin.ru",
           "label": "Persona.3.Reload.UPDATE-DenuvOwO.zip",
           "role": null,
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "abd6ce2ce9b9f6d4a929dcb0e03513a767ff7069b4eb5ced7cf8d839d0477ec8",
+          "size": 258755609,
+          "filename": "Persona.3.Reload.UPDATE-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -14141,9 +14141,9 @@
           "host": "cs.rin.ru",
           "label": "Like.A.Dragon.Infinite.Wealth-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "16557df0fa191d781f570db55f65ef1fb619c8a771d94f665fbb0ad31437b13b",
+          "size": 16266309,
+          "filename": "Like.A.Dragon.Infinite.Wealth-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -14191,9 +14191,9 @@
           "host": "cs.rin.ru",
           "label": "Hatsune.Miku.PDMMP-DenuvOwO.zip",
           "role": "Download Link",
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "d9cf13913c9cdd52a90a92b0161ff6cdaf3aff35af8d7243ec0a60bcaa3d9e6e",
+          "size": 16304884,
+          "filename": "Hatsune.Miku.PDMMP-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 159345,
@@ -14250,9 +14250,9 @@
           "host": "cs.rin.ru",
           "label": "Shin.Megami.Tensei.V.Vengeance-DenuvOwO.zip",
           "role": null,
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "b2cc772ce675b6223843675ab99991948950b7d6bbe0a10450dae3b9b50c716d",
+          "size": 233653814,
+          "filename": "Shin.Megami.Tensei.V.Vengeance-DenuvOwO.zip"
         }
       ],
       "sourceTopicId": 138547,
@@ -14309,9 +14309,9 @@
           "host": "cs.rin.ru",
           "label": "Crimson.Desert.Build.22457127-DenuvOwO.V2.rar",
           "role": null,
-          "sha256": null,
-          "size": null,
-          "filename": null
+          "sha256": "d797d5dd391c20a8cdb2344b9ada2a89df64b91815e1a13b40a59b0faaf63689",
+          "size": 26702886,
+          "filename": "Crimson.Desert.Build.22457127-DenuvOwO.V2.rar"
         }
       ],
       "sourceTopicId": 131328,
