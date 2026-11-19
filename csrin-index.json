@@ -1,9 +1,9 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-11-14T19:24:41.793479+00:00",
+  "generatedAt": "2026-11-19T19:26:35.409810+00:00",
   "provider": "cs.rin.ru",
   "sourceForum": null,
-  "discoveredTopics": 24,
+  "discoveredTopics": 2,
   "releases": [
     {
       "provider": "cs.rin.ru",
@@ -14976,6 +14976,62 @@
       "edition": null,
       "includesDlc": null,
       "isLatestVersion": true,
+      "updateNotes": [],
+      "supersedesPreviousLink": false,
+      "nfoReleaseDate": null,
+      "shopReleaseDate": null,
+      "nfoReleaseType": null,
+      "nfoKind": null,
+      "nfoFormat": null,
+      "protection": null,
+      "hashAlgorithm": null,
+      "hashValue": null,
+      "requiresConfirmation": true
+    },
+    {
+      "provider": "cs.rin.ru",
+      "title": "Crimson Desert Enhanced",
+      "releaseName": "Crimson.Desert.Enhanced.Update.v2.05.01.Crack.Only-ARTIFACT",
+      "gameTitle": "Crimson Desert Enhanced",
+      "steamAppId": null,
+      "buildId": "26776744",
+      "version": null,
+      "sha256": null,
+      "author": "artifact",
+      "releaseType": "hypervisor",
+      "links": [
+        {
+          "url": "https://cs.rin.ru/forum/download/file.php?id=198339",
+          "host": "cs.rin.ru",
+          "label": "Crimson.Desert.Enhanced.Update.v2.05.01.Crack.Only-ARTIFACT.7z",
+          "role": null,
+          "sha256": "aab55401e2901eca8fba8bc02e83ed2859d7e8724a1bf6c9dcfb7e3d400bf92b",
+          "size": 15539891,
+          "filename": "Crimson.Desert.Enhanced.Update.v2.05.01.Crack.Only-ARTIFACT.7z"
+        },
+        {
+          "url": "https://vikingfile.com/f/fAhjX3LhtR",
+          "host": "vikingfile.com",
+          "label": "Game files",
+          "role": "Game files",
+          "sha256": null,
+          "size": null,
+          "filename": null
+        }
+      ],
+      "sourceTopicId": 160311,
+      "sourcePostId": 3629923,
+      "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3629923#p3629923",
+      "postedAt": null,
+      "text": "Crimson.Desert.Enhanced.Update.v2.05.01.Crack.Only-ARTIFACT Attachment: Crimson.Desert.Enhanced.Update.v2.05.01.Crack.Only-ARTIFACT.7z [14.82 MiB] Downloaded 363 times Game files: https://vikingfile.com/f/fAhjX3LhtR The release is for the Steam build 26776744 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "packageTypes": [
+        "game-files"
+      ],
+      "cpuRequirements": [],
+      "supportedCpuVendors": [],
+      "edition": null,
+      "includesDlc": null,
+      "isLatestVersion": false,
       "updateNotes": [],
       "supersedesPreviousLink": false,
       "nfoReleaseDate": null,
