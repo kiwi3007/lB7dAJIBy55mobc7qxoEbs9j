@@ -1,10 +1,122 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-11-19T19:26:35.409810+00:00",
+  "generatedAt": "2026-11-21T19:37:31.638460+00:00",
   "provider": "cs.rin.ru",
   "sourceForum": null,
-  "discoveredTopics": 2,
+  "discoveredTopics": 25,
   "releases": [
+    {
+      "provider": "cs.rin.ru",
+      "title": "Crimson Desert Enhanced",
+      "releaseName": "Crimson.Desert.Enhanced.Update.v2.05.01.Crack.Only-ARTIFACT",
+      "gameTitle": "Crimson Desert Enhanced",
+      "steamAppId": null,
+      "buildId": "26776744",
+      "version": null,
+      "sha256": null,
+      "author": "artifact",
+      "releaseType": "hypervisor",
+      "links": [
+        {
+          "url": "https://cs.rin.ru/forum/download/file.php?id=198339",
+          "host": "cs.rin.ru",
+          "label": "Crimson.Desert.Enhanced.Update.v2.05.01.Crack.Only-ARTIFACT.7z",
+          "role": null,
+          "sha256": "aab55401e2901eca8fba8bc02e83ed2859d7e8724a1bf6c9dcfb7e3d400bf92b",
+          "size": 15539891,
+          "filename": "Crimson.Desert.Enhanced.Update.v2.05.01.Crack.Only-ARTIFACT.7z"
+        },
+        {
+          "url": "https://vikingfile.com/f/fAhjX3LhtR",
+          "host": "vikingfile.com",
+          "label": "Game files",
+          "role": "Game files",
+          "sha256": null,
+          "size": null,
+          "filename": null
+        }
+      ],
+      "sourceTopicId": 160311,
+      "sourcePostId": 3629923,
+      "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3629923#p3629923",
+      "postedAt": "2026-11-19T12:42",
+      "text": "Crimson.Desert.Enhanced.Update.v2.05.01.Crack.Only-ARTIFACT Attachment: Crimson.Desert.Enhanced.Update.v2.05.01.Crack.Only-ARTIFACT.7z [14.82 MiB] Downloaded 1043 times Game files: https://vikingfile.com/f/fAhjX3LhtR The release is for the Steam build 26776744 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "packageTypes": [
+        "game-files"
+      ],
+      "cpuRequirements": [],
+      "supportedCpuVendors": [],
+      "edition": null,
+      "includesDlc": null,
+      "isLatestVersion": false,
+      "updateNotes": [],
+      "supersedesPreviousLink": false,
+      "nfoReleaseDate": null,
+      "shopReleaseDate": null,
+      "nfoReleaseType": null,
+      "nfoKind": null,
+      "nfoFormat": null,
+      "protection": null,
+      "hashAlgorithm": null,
+      "hashValue": null,
+      "requiresConfirmation": true
+    },
+    {
+      "provider": "cs.rin.ru",
+      "title": "Crimson Desert Enhanced",
+      "releaseName": "Crimson.Desert.Enhanced.Update.v2.05.00.Crack.Only-ARTIFACT",
+      "gameTitle": "Crimson Desert Enhanced",
+      "steamAppId": null,
+      "buildId": "26636958",
+      "version": null,
+      "sha256": null,
+      "author": "artifact",
+      "releaseType": "hypervisor",
+      "links": [
+        {
+          "url": "https://cs.rin.ru/forum/download/file.php?id=197988",
+          "host": "cs.rin.ru",
+          "label": "Crimson.Desert.Enhanced.Update.v2.05.00.Crack.Only-ARTIFACT.7z",
+          "role": null,
+          "sha256": "087ee0e8408dbafd9b1bfce1101fe2d331cb46b1c9bda8feff9fe13d7583ea5e",
+          "size": 15539847,
+          "filename": "Crimson.Desert.Enhanced.Update.v2.05.00.Crack.Only-ARTIFACT.7z"
+        },
+        {
+          "url": "https://vikingfile.com/f/V1iItLteYA",
+          "host": "vikingfile.com",
+          "label": "Game files",
+          "role": "Game files",
+          "sha256": null,
+          "size": null,
+          "filename": null
+        }
+      ],
+      "sourceTopicId": 159345,
+      "sourcePostId": 3626327,
+      "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3626327#p3626327",
+      "postedAt": "2026-11-13T12:05",
+      "text": "Crimson.Desert.Enhanced.Update.v2.05.00.Crack.Only-ARTIFACT Attachment: Crimson.Desert.Enhanced.Update.v2.05.00.Crack.Only-ARTIFACT.7z [14.82 MiB] Downloaded 1515 times Game files: https://vikingfile.com/f/V1iItLteYA The release is for the Steam build 26636958 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "packageTypes": [
+        "game-files"
+      ],
+      "cpuRequirements": [],
+      "supportedCpuVendors": [],
+      "edition": null,
+      "includesDlc": null,
+      "isLatestVersion": false,
+      "updateNotes": [],
+      "supersedesPreviousLink": false,
+      "nfoReleaseDate": null,
+      "shopReleaseDate": null,
+      "nfoReleaseType": null,
+      "nfoKind": null,
+      "nfoFormat": null,
+      "protection": null,
+      "hashAlgorithm": null,
+      "hashValue": null,
+      "requiresConfirmation": true
+    },
     {
       "provider": "cs.rin.ru",
       "title": "Stellar Blade",
@@ -31,7 +143,7 @@
       "sourcePostId": 3624617,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3624617#p3624617",
       "postedAt": "2026-11-10T20:50",
-      "text": "Stellar.Blade.Update.v1.5.0.Crack.Only-ARTIFACT Attachment: Stellar.Blade.Update.v1.5.0.Crack.Only-ARTIFACT.7z [14.78 MiB] Downloaded 488 times The release is for the Steam build 26123051 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "Stellar.Blade.Update.v1.5.0.Crack.Only-ARTIFACT Attachment: Stellar.Blade.Update.v1.5.0.Crack.Only-ARTIFACT.7z [14.78 MiB] Downloaded 637 times The release is for the Steam build 26123051 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -78,7 +190,7 @@
       "sourcePostId": 3624491,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3624491#p3624491",
       "postedAt": "2026-11-10T18:11",
-      "text": "Football.Manager.27.Update.v27.0.1.Crack.Only-ARTIFACT Attachment: Football.Manager.27.Update.v27.0.1.Crack.Only-ARTIFACT.7z [14.83 MiB] Downloaded 1160 times The release is for the Steam build 26385295 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "Football.Manager.27.Update.v27.0.1.Crack.Only-ARTIFACT Attachment: Football.Manager.27.Update.v27.0.1.Crack.Only-ARTIFACT.7z [14.83 MiB] Downloaded 1272 times The release is for the Steam build 26385295 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -125,7 +237,7 @@
       "sourcePostId": 3624488,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3624488#p3624488",
       "postedAt": "2026-11-10T18:11",
-      "text": "Planet.Zoo.2.Update.v1.0.10.Crack.Only-ARTIFACT Attachment: Planet.Zoo.2.Update.v1.0.10.Crack.Only-ARTIFACT.7z [14.84 MiB] Downloaded 165 times The release is for the Steam build 26463268 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "Planet.Zoo.2.Update.v1.0.10.Crack.Only-ARTIFACT Attachment: Planet.Zoo.2.Update.v1.0.10.Crack.Only-ARTIFACT.7z [14.84 MiB] Downloaded 216 times The release is for the Steam build 26463268 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -172,7 +284,7 @@
       "sourcePostId": 3624486,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3624486#p3624486",
       "postedAt": "2026-11-10T18:11",
-      "text": "Crimson.Desert.Enhanced.Update.v2.04.08.Crack.Only-ARTIFACT Attachment: Crimson.Desert.Enhanced.Update.v2.04.08.Crack.Only-ARTIFACT.7z [14.83 MiB] Downloaded 1226 times The release is for the Steam build 26480942 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "Crimson.Desert.Enhanced.Update.v2.04.08.Crack.Only-ARTIFACT Attachment: Crimson.Desert.Enhanced.Update.v2.04.08.Crack.Only-ARTIFACT.7z [14.83 MiB] Downloaded 1372 times The release is for the Steam build 26480942 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -219,7 +331,7 @@
       "sourcePostId": 3620614,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3620614#p3620614",
       "postedAt": "2026-11-04T13:17",
-      "text": "Phantom.Blade.Zero.Update.v1.0302256.Crack.Only-ARTIFACT Attachment: Phantom.Blade.Zero.Update.v1.0302256.Crack.Only-ARTIFACT.7z [14.85 MiB] Downloaded 4387 times The release is for the Steam build 26367565 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "Phantom.Blade.Zero.Update.v1.0302256.Crack.Only-ARTIFACT Attachment: Phantom.Blade.Zero.Update.v1.0302256.Crack.Only-ARTIFACT.7z [14.85 MiB] Downloaded 5014 times The release is for the Steam build 26367565 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -266,7 +378,7 @@
       "sourcePostId": 3620613,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3620613#p3620613",
       "postedAt": "2026-11-04T13:17",
-      "text": "Crimson.Desert.Enhanced.Update.v2.04.06.Crack.Only-ARTIFACT Attachment: Crimson.Desert.Enhanced.Update.v2.04.06.Crack.Only-ARTIFACT.7z [14.85 MiB] Downloaded 1363 times The release is for the Steam build 26423874 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "Crimson.Desert.Enhanced.Update.v2.04.06.Crack.Only-ARTIFACT Attachment: Crimson.Desert.Enhanced.Update.v2.04.06.Crack.Only-ARTIFACT.7z [14.85 MiB] Downloaded 1433 times The release is for the Steam build 26423874 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -313,7 +425,7 @@
       "sourcePostId": 3620611,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3620611#p3620611",
       "postedAt": "2026-11-04T13:17",
-      "text": "Assassins.Creed.Black.Flag.Resynced.Update.v1.0.8.Crack.Only-ARTIFACT Attachment: Assassins.Creed.Black.Flag.Resynced.Update.v1.0.8.Crack.Only-ARTIFACT.7z [8.64 MiB] Downloaded 823 times The release is for the Steam build 25795103 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "Assassins.Creed.Black.Flag.Resynced.Update.v1.0.8.Crack.Only-ARTIFACT Attachment: Assassins.Creed.Black.Flag.Resynced.Update.v1.0.8.Crack.Only-ARTIFACT.7z [8.64 MiB] Downloaded 1006 times The release is for the Steam build 25795103 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -360,7 +472,7 @@
       "sourcePostId": 3620323,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3620323#p3620323",
       "postedAt": "2026-11-04T00:07",
-      "text": "Football.Manager.27.Crack.Only-ARTIFACT Attachment: Football.Manager.27.Crack.Only-ARTIFACT.7z [14.82 MiB] Downloaded 1881 times The release is for the Steam build 26340721 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "Football.Manager.27.Crack.Only-ARTIFACT Attachment: Football.Manager.27.Crack.Only-ARTIFACT.7z [14.82 MiB] Downloaded 2052 times The release is for the Steam build 26340721 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -407,7 +519,7 @@
       "sourcePostId": 3620131,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3620131#p3620131",
       "postedAt": "2026-11-03T19:30",
-      "text": "F1.25.Update.v1.0.141.7865.Crack.Only-ARTIFACT Attachment: F1.25.Update.v1.0.141.7865.Crack.Only-ARTIFACT.7z [14.71 MiB] Downloaded 362 times The release is for the Steam build 25251167 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "F1.25.Update.v1.0.141.7865.Crack.Only-ARTIFACT Attachment: F1.25.Update.v1.0.141.7865.Crack.Only-ARTIFACT.7z [14.71 MiB] Downloaded 426 times The release is for the Steam build 25251167 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -454,7 +566,7 @@
       "sourcePostId": 3620130,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3620130#p3620130",
       "postedAt": "2026-11-03T19:30",
-      "text": "Crimson.Desert.Enhanced.Update.v2.04.05.Crack.Only-ARTIFACT Attachment: Crimson.Desert.Enhanced.Update.v2.04.05.Crack.Only-ARTIFACT.7z [14.82 MiB] Downloaded 953 times The release is for the Steam build 26361219 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "Crimson.Desert.Enhanced.Update.v2.04.05.Crack.Only-ARTIFACT Attachment: Crimson.Desert.Enhanced.Update.v2.04.05.Crack.Only-ARTIFACT.7z [14.82 MiB] Downloaded 989 times The release is for the Steam build 26361219 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -501,7 +613,7 @@
       "sourcePostId": 3619595,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3619595#p3619595",
       "postedAt": "2026-11-02T21:33",
-      "text": "Phantom.Blade.Zero.Crackfix-ARTIFACT Attachment: Phantom.Blade.Zero.Crackfix-ARTIFACT.7z [14.82 MiB] Downloaded 2276 times Fixed instability and crashes that could occur. Mods now also load and work properly. This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "Phantom.Blade.Zero.Crackfix-ARTIFACT Attachment: Phantom.Blade.Zero.Crackfix-ARTIFACT.7z [14.82 MiB] Downloaded 2318 times Fixed instability and crashes that could occur. Mods now also load and work properly. This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -548,7 +660,7 @@
       "sourcePostId": 3619592,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3619592#p3619592",
       "postedAt": "2026-11-02T21:33",
-      "text": "Planet.Zoo.2.Crackfix-ARTIFACT Attachment: Planet.Zoo.2.Crackfix-ARTIFACT.7z [14.83 MiB] Downloaded 282 times Fixed instability and crashes that could occur. Mods now also load and work properly. The release is for the Steam build 26164034 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "Planet.Zoo.2.Crackfix-ARTIFACT Attachment: Planet.Zoo.2.Crackfix-ARTIFACT.7z [14.83 MiB] Downloaded 294 times Fixed instability and crashes that could occur. Mods now also load and work properly. The release is for the Steam build 26164034 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -595,7 +707,7 @@
       "sourcePostId": 3619591,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3619591#p3619591",
       "postedAt": "2026-11-02T21:33",
-      "text": "STAR.WARS.Galactic.Racer.Crackfix-ARTIFACT Attachment: STAR.WARS.Galactic.Racer.Crackfix-ARTIFACT.7z [14.82 MiB] Downloaded 721 times Fixed instability and crashes that could occur. Mods now also load and work properly. The release is for the Steam build 26133805 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "STAR.WARS.Galactic.Racer.Crackfix-ARTIFACT Attachment: STAR.WARS.Galactic.Racer.Crackfix-ARTIFACT.7z [14.82 MiB] Downloaded 783 times Fixed instability and crashes that could occur. Mods now also load and work properly. The release is for the Steam build 26133805 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -677,7 +789,7 @@
       "sourcePostId": 3616275,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3616275#p3616275",
       "postedAt": "2026-10-29T06:18",
-      "text": "Phantom.Blade.Zero.Crack.Only-ARTIFACT Attachment: Phantom.Blade.Zero.Crack.Only-ARTIFACT.7z [14.8 MiB] Downloaded 12679 times You must run the VBS.cmd script included in the release even if you are using other tools to disable DSE. This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "Phantom.Blade.Zero.Crack.Only-ARTIFACT Attachment: Phantom.Blade.Zero.Crack.Only-ARTIFACT.7z [14.8 MiB] Downloaded 12951 times You must run the VBS.cmd script included in the release even if you are using other tools to disable DSE. This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -724,7 +836,7 @@
       "sourcePostId": 3616132,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3616132#p3616132",
       "postedAt": "2026-10-28T23:11",
-      "text": "Planet.Zoo.2.Crack.Only-ARTIFACT Attachment: Planet.Zoo.2.Crack.Only-ARTIFACT.7z [14.81 MiB] Downloaded 694 times You must run the VBS.cmd script included in the release even if you are using other tools to disable DSE. The release is for the Steam build 26164034 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "Planet.Zoo.2.Crack.Only-ARTIFACT Attachment: Planet.Zoo.2.Crack.Only-ARTIFACT.7z [14.81 MiB] Downloaded 718 times You must run the VBS.cmd script included in the release even if you are using other tools to disable DSE. The release is for the Steam build 26164034 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -771,7 +883,7 @@
       "sourcePostId": 3616131,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3616131#p3616131",
       "postedAt": "2026-10-28T23:10",
-      "text": "STAR.WARS.Galactic.Racer.Crack.Only-ARTIFACT Attachment: STAR.WARS.Galactic.Racer.Crack.Only-ARTIFACT.7z [14.81 MiB] Downloaded 1676 times You must run the VBS.cmd script included in the release even if you are using other tools to disable DSE. The release is for the Steam build 26133805 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "STAR.WARS.Galactic.Racer.Crack.Only-ARTIFACT Attachment: STAR.WARS.Galactic.Racer.Crack.Only-ARTIFACT.7z [14.81 MiB] Downloaded 1691 times You must run the VBS.cmd script included in the release even if you are using other tools to disable DSE. The release is for the Steam build 26133805 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -853,7 +965,7 @@
       "sourcePostId": 3613053,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3613053#p3613053",
       "postedAt": "2026-10-23T20:48",
-      "text": "FINAL.FANTASY.RESONANCE.Crack.Only-ARTIFACT Attachment: FINAL.FANTASY.RESONANCE.Crack.Only-ARTIFACT.7z [14.8 MiB] Downloaded 2913 times This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "FINAL.FANTASY.RESONANCE.Crack.Only-ARTIFACT Attachment: FINAL.FANTASY.RESONANCE.Crack.Only-ARTIFACT.7z [14.8 MiB] Downloaded 3005 times This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -900,7 +1012,7 @@
       "sourcePostId": 3600420,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3600420#p3600420",
       "postedAt": "2026-10-02T07:38",
-      "text": "Total.War.WARHAMMER.III.Update.v9.0.2.Crack.Only-ARTIFACT Attachment: Total.War.WARHAMMER.III.Update.v9.0.2.Crack.Only-ARTIFACT.7z [14.72 MiB] Downloaded 903 times The release is for the Steam build 25649450 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "Total.War.WARHAMMER.III.Update.v9.0.2.Crack.Only-ARTIFACT Attachment: Total.War.WARHAMMER.III.Update.v9.0.2.Crack.Only-ARTIFACT.7z [14.72 MiB] Downloaded 918 times The release is for the Steam build 25649450 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -947,7 +1059,7 @@
       "sourcePostId": 3600358,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3600358#p3600358",
       "postedAt": "2026-10-02T03:58",
-      "text": "Jurassic.World.Evolution.3.Update.v1.5.2.Crack.Only-ARTIFACT Attachment: Jurassic.World.Evolution.3.Update.v1.5.2.Crack.Only-ARTIFACT.7z [14.72 MiB] Downloaded 424 times The release is for the Steam build 25482559 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "Jurassic.World.Evolution.3.Update.v1.5.2.Crack.Only-ARTIFACT Attachment: Jurassic.World.Evolution.3.Update.v1.5.2.Crack.Only-ARTIFACT.7z [14.72 MiB] Downloaded 445 times The release is for the Steam build 25482559 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -994,7 +1106,7 @@
       "sourcePostId": 3600321,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3600321#p3600321",
       "postedAt": "2026-10-02T01:55",
-      "text": "Anno.117.Pax.Romana.Update.v2.1.Crack.Only-ARTIFACT Attachment: Anno.117.Pax.Romana.Update.v2.1.Crack.Only-ARTIFACT.7z [8.64 MiB] Downloaded 405 times The release is for the Steam build 24988830 Credits to demde for Uplay r2 Emulator. This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "Anno.117.Pax.Romana.Update.v2.1.Crack.Only-ARTIFACT Attachment: Anno.117.Pax.Romana.Update.v2.1.Crack.Only-ARTIFACT.7z [8.64 MiB] Downloaded 406 times The release is for the Steam build 24988830 Credits to demde for Uplay r2 Emulator. This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -1041,7 +1153,7 @@
       "sourcePostId": 3600241,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3600241#p3600241",
       "postedAt": "2026-10-01T22:59",
-      "text": "Two.Point.Museum.Update.v12.0.243206.Crack.Only-ARTIFACT Attachment: Two.Point.Museum.Update.v12.0.243206.Crack.Only-ARTIFACT.7z [14.72 MiB] Downloaded 274 times This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "Two.Point.Museum.Update.v12.0.243206.Crack.Only-ARTIFACT Attachment: Two.Point.Museum.Update.v12.0.243206.Crack.Only-ARTIFACT.7z [14.72 MiB] Downloaded 281 times This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -1088,7 +1200,7 @@
       "sourcePostId": 3599636,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3599636#p3599636",
       "postedAt": "2026-10-01T09:04",
-      "text": "Two.Point.Museum.Update.v11.0.234399.Crack.Only-ARTIFACT Attachment: Two.Point.Museum.Update.v11.0.234399.Crack.Only-ARTIFACT.7z [14.71 MiB] Downloaded 150 times This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "Two.Point.Museum.Update.v11.0.234399.Crack.Only-ARTIFACT Attachment: Two.Point.Museum.Update.v11.0.234399.Crack.Only-ARTIFACT.7z [14.71 MiB] Downloaded 154 times This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -1135,7 +1247,7 @@
       "sourcePostId": 3599612,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3599612#p3599612",
       "postedAt": "2026-10-01T07:45",
-      "text": "Crimson.Desert.Enhanced.Update.v2.03.02.Crack.Only-ARTIFACT Attachment: Crimson.Desert.Enhanced.Update.v2.03.02.Crack.Only-ARTIFACT.7z [14.71 MiB] Downloaded 1590 times This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "Crimson.Desert.Enhanced.Update.v2.03.02.Crack.Only-ARTIFACT Attachment: Crimson.Desert.Enhanced.Update.v2.03.02.Crack.Only-ARTIFACT.7z [14.71 MiB] Downloaded 1598 times This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -1182,7 +1294,7 @@
       "sourcePostId": 3599559,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3599559#p3599559",
       "postedAt": "2026-10-01T05:42",
-      "text": "Hello.Kitty.Island.Adventure.Update.v2.18.1.Crack.Only-ARTIFACT Attachment: Hello.Kitty.Island.Adventure.Update.v2.18.1.Crack.Only-ARTIFACT.7z [14.71 MiB] Downloaded 307 times This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "Hello.Kitty.Island.Adventure.Update.v2.18.1.Crack.Only-ARTIFACT Attachment: Hello.Kitty.Island.Adventure.Update.v2.18.1.Crack.Only-ARTIFACT.7z [14.71 MiB] Downloaded 316 times This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -1311,7 +1423,7 @@
       "sourcePostId": 3597852,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3597852#p3597852",
       "postedAt": "2026-09-28T23:00",
-      "text": "ACE.COMBAT.8.WINGS.OF.THEVE.Crack.Only-ARTIFACT Attachment: ACE.COMBAT.8.WINGS.OF.THEVE.Crack.Only-ARTIFACT.7z [14.7 MiB] Downloaded 4148 times This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "ACE.COMBAT.8.WINGS.OF.THEVE.Crack.Only-ARTIFACT Attachment: ACE.COMBAT.8.WINGS.OF.THEVE.Crack.Only-ARTIFACT.7z [14.7 MiB] Downloaded 4215 times This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -1612,7 +1724,7 @@
       "sourcePostId": 3597328,
       "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3597328#p3597328",
       "postedAt": "2026-09-28T00:03",
-      "text": "EA.SPORTS.FC.27.Crack.Only-ARTIFACT Attachment: EA.SPORTS.FC.27.Crack.Only-ARTIFACT.7z [216.08 MiB] Downloaded 3726 times This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
+      "text": "EA.SPORTS.FC.27.Crack.Only-ARTIFACT Attachment: EA.SPORTS.FC.27.Crack.Only-ARTIFACT.7z [216.08 MiB] Downloaded 3744 times This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
       "packageTypes": [
         "combined-or-unspecified"
       ],
@@ -14976,118 +15088,6 @@
       "edition": null,
       "includesDlc": null,
       "isLatestVersion": true,
-      "updateNotes": [],
-      "supersedesPreviousLink": false,
-      "nfoReleaseDate": null,
-      "shopReleaseDate": null,
-      "nfoReleaseType": null,
-      "nfoKind": null,
-      "nfoFormat": null,
-      "protection": null,
-      "hashAlgorithm": null,
-      "hashValue": null,
-      "requiresConfirmation": true
-    },
-    {
-      "provider": "cs.rin.ru",
-      "title": "Crimson Desert Enhanced",
-      "releaseName": "Crimson.Desert.Enhanced.Update.v2.05.01.Crack.Only-ARTIFACT",
-      "gameTitle": "Crimson Desert Enhanced",
-      "steamAppId": null,
-      "buildId": "26776744",
-      "version": null,
-      "sha256": null,
-      "author": "artifact",
-      "releaseType": "hypervisor",
-      "links": [
-        {
-          "url": "https://cs.rin.ru/forum/download/file.php?id=198339",
-          "host": "cs.rin.ru",
-          "label": "Crimson.Desert.Enhanced.Update.v2.05.01.Crack.Only-ARTIFACT.7z",
-          "role": null,
-          "sha256": "aab55401e2901eca8fba8bc02e83ed2859d7e8724a1bf6c9dcfb7e3d400bf92b",
-          "size": 15539891,
-          "filename": "Crimson.Desert.Enhanced.Update.v2.05.01.Crack.Only-ARTIFACT.7z"
-        },
-        {
-          "url": "https://vikingfile.com/f/fAhjX3LhtR",
-          "host": "vikingfile.com",
-          "label": "Game files",
-          "role": "Game files",
-          "sha256": null,
-          "size": null,
-          "filename": null
-        }
-      ],
-      "sourceTopicId": 160311,
-      "sourcePostId": 3629923,
-      "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3629923#p3629923",
-      "postedAt": null,
-      "text": "Crimson.Desert.Enhanced.Update.v2.05.01.Crack.Only-ARTIFACT Attachment: Crimson.Desert.Enhanced.Update.v2.05.01.Crack.Only-ARTIFACT.7z [14.82 MiB] Downloaded 363 times Game files: https://vikingfile.com/f/fAhjX3LhtR The release is for the Steam build 26776744 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
-      "packageTypes": [
-        "game-files"
-      ],
-      "cpuRequirements": [],
-      "supportedCpuVendors": [],
-      "edition": null,
-      "includesDlc": null,
-      "isLatestVersion": false,
-      "updateNotes": [],
-      "supersedesPreviousLink": false,
-      "nfoReleaseDate": null,
-      "shopReleaseDate": null,
-      "nfoReleaseType": null,
-      "nfoKind": null,
-      "nfoFormat": null,
-      "protection": null,
-      "hashAlgorithm": null,
-      "hashValue": null,
-      "requiresConfirmation": true
-    },
-    {
-      "provider": "cs.rin.ru",
-      "title": "Crimson Desert Enhanced",
-      "releaseName": "Crimson.Desert.Enhanced.Update.v2.05.00.Crack.Only-ARTIFACT",
-      "gameTitle": "Crimson Desert Enhanced",
-      "steamAppId": null,
-      "buildId": "26636958",
-      "version": null,
-      "sha256": null,
-      "author": "artifact",
-      "releaseType": "hypervisor",
-      "links": [
-        {
-          "url": "https://cs.rin.ru/forum/download/file.php?id=197988",
-          "host": "cs.rin.ru",
-          "label": "Crimson.Desert.Enhanced.Update.v2.05.00.Crack.Only-ARTIFACT.7z",
-          "role": null,
-          "sha256": "087ee0e8408dbafd9b1bfce1101fe2d331cb46b1c9bda8feff9fe13d7583ea5e",
-          "size": 15539847,
-          "filename": "Crimson.Desert.Enhanced.Update.v2.05.00.Crack.Only-ARTIFACT.7z"
-        },
-        {
-          "url": "https://vikingfile.com/f/V1iItLteYA",
-          "host": "vikingfile.com",
-          "label": "Game files",
-          "role": "Game files",
-          "sha256": null,
-          "size": null,
-          "filename": null
-        }
-      ],
-      "sourceTopicId": 159345,
-      "sourcePostId": 3626327,
-      "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3626327#p3626327",
-      "postedAt": null,
-      "text": "Crimson.Desert.Enhanced.Update.v2.05.00.Crack.Only-ARTIFACT Attachment: Crimson.Desert.Enhanced.Update.v2.05.00.Crack.Only-ARTIFACT.7z [14.82 MiB] Downloaded 877 times Game files: https://vikingfile.com/f/V1iItLteYA The release is for the Steam build 26636958 This post includes a EXPERIMENTAL hypervisor-based release. You might encounter a BSOD. Read the following topics for hypervisor releases information viewtopic.php?f=10&t=156419 viewtopic.php?f=14&t=156407 Any problem you might have with this release go only to the designated topic below: viewtopic.php?t=156435",
-      "packageTypes": [
-        "game-files"
-      ],
-      "cpuRequirements": [],
-      "supportedCpuVendors": [],
-      "edition": null,
-      "includesDlc": null,
-      "isLatestVersion": false,
       "updateNotes": [],
       "supersedesPreviousLink": false,
       "nfoReleaseDate": null,
